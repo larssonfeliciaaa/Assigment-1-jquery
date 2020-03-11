@@ -1,0 +1,170 @@
+#btn-1{
+  background-color: pink;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-2{
+  background-color:blue;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-3{
+  background-color: grey;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-4{
+  background-color: green;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-5{
+  background-color: lightblue;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-6{
+  background-color: yellow;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-7{
+  background-color: red;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-8{
+  background-color: white;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+#btn-9{
+  background-color: black;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+#btn-10 {
+  background-color: orange;
+  border: none;
+  border-radius: 8px;
+  color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+ }
+
+h2 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p{
+  color: white;
+}
+
+  .split {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+  
+  /* Control the left side */
+  .left {
+    left: 0;
+    background-color: #111;
+  }
+  
+  /* Control the right side */
+  .right {
+    right: 0;
+    background-color: white;
+  }
+  
+  /* If you want the content centered horizontally and vertically */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  /* Style the image inside the centered container, if needed */
+  .centered img {
+    width: 150px;
+    border-radius: 50%;
+  }
+
+/*# sourceMappingURL=style.css.map */
+li{
+list-style-type: none;
+margin: 5px;
+padding: 0;
+background: gray;
+
+}
